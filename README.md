@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Gestión de Usuarios, Destinos y Actividades
 
 Esta API RESTful desarrollada con **FastAPI** y **inteligencia artificial** permite administrar usuarios, destinos y actividades.  
@@ -89,3 +90,7 @@ pip install -r requirements.txt
 
 # Ejecutar el servidor
 uvicorn main:app --reload
+=======
+# API-IA
+Realizamos una API de una agencia de turismo con ayuda de Inteligencia Artifical (ChatGPT)
+>>>>>>> ab06e94e19e8a2b9cf1bce00f7e8ad032cdbbbba
