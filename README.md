@@ -26,14 +26,20 @@ En esta API teníamos que utilizar inteligencia artificial, nosotros la utilizam
 API/
 
 ┣routes/
-┃ 	┣actividadRouter.py
-┃ 	┣destinoRouter.py
-┃ 	┗usuarioRouter.py
+┃ 	
+┣actividadRouter.py
+┃ 	
+┣destinoRouter.py
+┃ 	
+┗usuarioRouter.py
 
 ┣managers/
-┃ 	┣actividadManager.py
-┃ 	┣destinoManager.py
-┃ 	┗usuarioManager.py
+┃ 	
+┣actividadManager.py
+┃ 	
+┣destinoManager.py
+┃ 	
+┗usuarioManager.py
 
 ┣models/
 ┃ 	┗modelos.py
