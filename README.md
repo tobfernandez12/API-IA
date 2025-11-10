@@ -30,7 +30,8 @@ API/
 │ └── usuarioRouter.py
 
 📁 managers/
-│ ├── actividadManager.py
+│ ├
+── actividadManager.py
 │ ├── destinoManager.py
 │ └── usuarioManager.py
 
