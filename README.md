@@ -9,7 +9,7 @@ En esta API teníamos que utilizar inteligencia artificial, nosotros la utilizam
 -Por último, gran parte de este README.md esta hecho con IA (incluyendo imagen)
 
 ---
-!(images/image.png)
+![(images/image.png)]
 
 #Tecnologías utilizadas
 
