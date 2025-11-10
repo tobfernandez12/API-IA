@@ -24,29 +24,22 @@ En esta API teníamos que utilizar inteligencia artificial, nosotros la utilizam
 #Estructura del proyecto
 
 API/
+📁 routes/
+│ ├── actividadRouter.py
+│ ├── destinoRouter.py
+│ └── usuarioRouter.py
 
-┣routes/
-┃ 	
-┣actividadRouter.py
-┃ 	
-┣destinoRouter.py
-┃ 	
-┗usuarioRouter.py
+📁 managers/
+│ ├── actividadManager.py
+│ ├── destinoManager.py
+│ └── usuarioManager.py
 
-┣managers/
-┃ 	
-┣actividadManager.py
-┃ 	
-┣destinoManager.py
-┃ 	
-┗usuarioManager.py
+📁 models/
+│ └── modelos.py
 
-┣models/
-┃ 	┗modelos.py
-
-┣main.py
-┣vercel.json
-┗requirements.txt
+├── main.py
+├── vercel.json
+└── requirements.txt
 
 ## Endpoints
 
